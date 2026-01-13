@@ -1,0 +1,9 @@
+streamlit
+pyrebase4
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+transformers
+torch
